@@ -10,3 +10,8 @@ The file LME_Bayesian: LME model with a Bayesian approach and Hypothesis Testing
 
 The file longitudinal.stan: the document needed for Bayesian approach.
 
+# Read and cite our article “Evaluating the performance of Bayesian and frequentist approaches for longitudinal modeling: application to Alzheimer’s disease.”:
+
+Pérez-Millan, A., Contador, J., Tudela, R. et al. Evaluating the performance of Bayesian and frequentist approaches for longitudinal modeling: application to Alzheimer’s disease.Sci Rep 12, 14448 (2022). https://doi.org/10.1038/s41598-022-18129-4
+
+https://www.nature.com/articles/s41598-022-18129-4
